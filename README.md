@@ -21,4 +21,7 @@ project follows.
 ## Process
 
 This repo follows the [sdlc-standards](https://github.com/fsamuels/sdlc-standards) plugin
-— see [CLAUDE.md](CLAUDE.md) for branch naming, commit conventions, and PR expectations.
+— see [CLAUDE.md](CLAUDE.md) for branch naming, commit conventions, and PR expectations,
+and [CONTRIBUTING.md](CONTRIBUTING.md) for the contributor-facing pointer to the same
+process. All changes land through a PR — `main` has branch protection requiring it, with
+no admin bypass.
