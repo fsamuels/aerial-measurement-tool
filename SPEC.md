@@ -11,6 +11,13 @@ orders and tracking acreage, not for legal boundary surveys. A few percent of er
 fence run or a pasture's acreage is acceptable; sub-meter absolute accuracy is not a goal
 and isn't worth the added complexity (ground control points, RTK, etc.) it would require.
 
+**Build-vs-buy:** much of this exists off the shelf — free measurement on satellite
+imagery (Google Earth Pro), land-mapping apps (Land id, onX, fieldmargin), and drone
+photogrammetry platforms (WebODM, DroneDeploy, Pix4D). See
+[docs/product-review.md](docs/product-review.md) for the market survey, pricing, and its
+recommendation to adopt WebODM rather than build M1–M4. The milestones below have not yet
+been revised against it.
+
 ## Problem Statement
 
 - The farm has no accurate map of fence lines or paddock boundaries — estimates today are

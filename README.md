@@ -16,6 +16,8 @@ project follows.
 - `stitcher/` — CLI: turns a flight's drone photos into a georeferenced orthomosaic (not
   yet built).
 - `viewer/` — self-hosted web app: map, layer toggle, measurement tools (not yet built).
+- [docs/product-review.md](docs/product-review.md) — survey of existing products that
+  overlap this spec (features, pricing, build-vs-buy recommendation).
 - `docs/` — architecture, current-status, roadmap, open-questions (created once M1 lands).
 
 ## Process
